@@ -1,5 +1,5 @@
 {
-  "name": "grunt-connect-proxy",
+  "name": "grunt-connect-proxy-cosium-fork",
   "description": "Provides a http proxy as middleware for grunt connect.",
   "version": "0.1.11",
   "homepage": "https://github.com/drewzboto/grunt-connect-proxy",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/drewzboto/grunt-connect-proxy.git"
+    "url": "git://github.com/Cosium/grunt-connect-proxy.git"
   },
   "bugs": {
     "url": "https://github.com/drewzboto/grunt-connect-proxy/issues"
